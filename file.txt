@@ -1,0 +1,4 @@
+changed to .txt
+second lesson and command used is:
+git mv old filename new filename
+
